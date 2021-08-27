@@ -3,3 +3,5 @@
 -- DROP TABLE + DESAFIO + BONUS
 
 -- EXEMPLOS --
+
+DROP TABLE nomeDaTabela
